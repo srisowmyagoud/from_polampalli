@@ -7,6 +7,10 @@ my Favourite restaurant is Hole in the Wall which is located In **Koramangala**.
  *** 
 
 # FAVOURITE DISHES
-1.Kadai paneer
-2.cream of chicken
-3.pizza
+1.Kadai paneer<br>
+2.cream of chicken<br>
+3.pizza<br>
+*they are many places to visit near This restaturant
+*Commercial street 
+*Church street
+*Cubbon Park
